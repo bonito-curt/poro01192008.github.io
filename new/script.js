@@ -33,7 +33,7 @@ let authorLink = ""; // Enter your website, social media, etc. Some way for peop
 let postsArray = [
 //[ "posts/2020-11-10-Special-Characters-Example.html", encodeURI( 'Spéci@l "Character\'s" Examp|e' ) ],
 //[ "posts/2020-11-10-My-Third-Post-Example.html" ],
-//[ "posts/2020-11-10-My-Second-Post-Example.html" ],
+[ "posts/2022-11-19-first-post.html" ],
 [ "posts/2020-11-10-Post-Template.html" ] ];
 
 //XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
