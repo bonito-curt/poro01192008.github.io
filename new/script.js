@@ -31,8 +31,9 @@ let authorLink = ""; // Enter your website, social media, etc. Some way for peop
   use a date it must still follow that format.*/
 
 let postsArray = [
-//[ "posts/2020-11-10-Special-Characters-Example.html", encodeURI( 'Spéci@l "Character\'s" Examp|e' ) ],
-//[ "posts/2020-11-10-My-Third-Post-Example.html" ],
+[ "2023-06-16-new-site-again;-the-long-&-confusing-history-of-my-neocities-site.html" ],
+[ "posts/2023-02-15-new-portion-of-website-possibly-coming.html" ],
+[ "posts/2023-02-09-update-on-life;-new-site.html" ],
 [ "posts/2022-11-19-first-post.html" ],
 [ "posts/2020-11-10-Post-Template.html" ] ];
 
